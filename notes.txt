@@ -1,0 +1,14 @@
+php artisan help make:model
+php artisan
+
+App\Models\User::factory()->unverified()->create();
+-> to use of unverified function while creating the USER.
+
+Day-6-
+ - passing data from route to view
+
+ Day-7
+ - Autoloading, Namespaces
+
+Day-8 (Introduction to Migration)
+ -
